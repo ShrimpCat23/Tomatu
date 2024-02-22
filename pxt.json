@@ -1,0 +1,54 @@
+{
+    "name": "TOMATU",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#6cfbf925b9a4d5ddf3e1078e6cf6ca6a1aebb301",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.46",
+        "tag": "v1.12.46",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/e66fb08db35df2249cd64300195259c64d497106",
+        "target": "1.12.47",
+        "pxt": "8.5.57",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFF1E8",
+        "#FF004D",
+        "#FF77A8",
+        "#FFA300",
+        "#FFEC27",
+        "#008751",
+        "#00E436",
+        "#29ADFF",
+        "#C2C3C7",
+        "#7E2553",
+        "#83769C",
+        "#5F574F",
+        "#FFCCAA",
+        "#AB5236",
+        "#1D2B53"
+    ]
+}
